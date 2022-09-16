@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T19:28:40.720Z" agent="5.0 (Windows)" version="20.2.7" etag="lSdvc37Oo993SVfxgZaY" type="github"><diagram id="QEIIj1hIenURwdIoyxG0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-16T19:32:02.293Z" agent="5.0 (Windows)" etag="iEvKNmCKCxWvcbEzcfWF" version="20.2.7" type="github">
+  <diagram id="QEIIj1hIenURwdIoyxG0" name="Page-1">
+    <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3yODk9e8b0lQ3Pvto1Rx-1" value="&lt;div&gt;Song&lt;/div&gt;&lt;div&gt;--------------&lt;br&gt;&lt;/div&gt;&lt;div&gt;artist&lt;/div&gt;&lt;div&gt;title&lt;/div&gt;&lt;div&gt;album&lt;/div&gt;&lt;div&gt;release_date&lt;/div&gt;&lt;div&gt;genre&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
